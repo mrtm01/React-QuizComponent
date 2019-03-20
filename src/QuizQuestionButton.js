@@ -10,4 +10,4 @@ class QuizquestionButton extends Component
         )
     }
 }
-export default QuizquestionButton
+export default QuizQuestionButton
